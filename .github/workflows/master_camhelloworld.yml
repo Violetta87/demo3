@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'CamHelloWorld'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0D952BC70024D1F938D8ECBBE9EAFD6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0796B55BDFC94E008945935FCCA66231 }}
           package: '*.jar'
